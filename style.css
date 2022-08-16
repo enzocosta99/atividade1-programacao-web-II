@@ -1,0 +1,70 @@
+body {
+    background-color: rgb(47, 148, 241);
+}
+
+table, th, td {
+    border: 1px solid black;
+    padding: 10px;
+}
+
+.tabela {
+    border-radius: 10px;
+    margin-left: 655px;
+    margin-top: 30px;
+}
+
+#nome1 {
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 60px;
+}
+
+#section1 {
+    text-align: center;
+    padding-top: 60px;
+}
+
+#section3 {
+    text-align: center;
+    padding-top: 20px;
+}
+
+#pesquisar {
+    padding: 20px;
+    font-size: 30px;
+    border-radius: 10px;
+    border-style: groove;
+}
+
+#ok {
+    padding: 5px;
+}
+
+#novo { 
+    margin-top: 30px;
+    margin-left: 920px;
+}
+
+#section2 {
+    text-align: center;
+    padding-top: 200px;
+}
+
+.input {
+    padding: 10px;
+}
+
+#preco {
+    margin-right: 35px;
+}
+
+#categoria {
+    margin-right: 100px;
+}
+
+#nome2 {
+    margin-right: 32px;
+}
+
+#codigo {
+    margin-right: 25px;
+}
